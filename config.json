@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "task-manager-api",
+      "title": "Task Manager API with FastAPI and SQLite",
+      "description": "Building a persistent task manager API with FastAPI and SQLite",
+      "path": "assignments/task-manager-api",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
